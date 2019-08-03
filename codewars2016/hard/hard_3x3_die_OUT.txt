@@ -1,0 +1,10 @@
+Initial state
+_ m _
+_ e _
+_ e p
+Materials collected 0/1
+_ m _
+_ e _
+_ p _
+Materials collected 0/1
+You died!

@@ -1,0 +1,19 @@
+Initial state
+_ e _
+_ m _
+_ m p
+Materials collected 0/2
+Can't move that distance! (-3,2)
+_ e _
+_ m _
+_ m p
+Materials collected 0/2
+_ e _
+_ p _
+_ m _
+Materials collected 1/2
+_ e _
+_ _ _
+_ p _
+Materials collected 2/2
+You have collected all the materials! Congratulations!

@@ -1,0 +1,8 @@
+Initial state
+p e
+_ m
+Materials collected 0/1
+_ e
+_ p
+Materials collected 1/1
+You have collected all the materials! Congratulations!

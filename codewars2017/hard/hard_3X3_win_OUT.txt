@@ -1,0 +1,14 @@
+Game Status:
+c h _ 
+_ e t 
+_ _ _ 
+[Enemy heroes left=1][Current weapons=0]
+c _ _ 
+_ e h 
+_ _ _ 
+[Enemy heroes left=1][Current weapons=1]
+c _ _ 
+_ h _ 
+_ _ _ 
+[Enemy heroes left=0][Current weapons=0]
+You have cleaned the battle arena! Congratulations!

@@ -1,0 +1,282 @@
+1 - p None {"id":"UserGamesMod","attribs":{"class":"mod-major mod-user-games"},"config":{"login_user_id":"e7aee2144784d8798a6c071735fd9d73","target_user_id":"eb0a727fbf8d9121485f80d698e35656","sort_by":"hours_played","page":"1","items_per_page":"10","platforms":"YTowOnt9","ranks":"YTowOnt9","genres":"YTowOnt9","is_ghost":"","max_carousel_friends":"6"},"css":["\/\/b0.raptrcdn.com\/s\/user_games_list2319509553.gz.css","\/\/b0.raptrcdn.com\/s\/game_ranking4026028497.gz.css","\/\/b0.raptrcdn.com\/s\/star_rating2426322904.gz.css"],"js":["mod\/user_games.js","mod\/star_rating.js"],"title":null,"head":"        
+1 - h3 \"inline-title\" Jstyl_8's Games\n        
+2 - a \"discover-games\" Discover Games      
+3 - ul \"tab-control         
+4 - li \"tab-item \n          Recent\n                
+4 - li \"tab-item \n          Rank\n                
+4 - li \"tab-item \n          Most Played\n                
+4 - li \"tab-item \n          Achievements\n                
+4 - li \"tab-item \n          Alphabetical\n                
+4 - li \"tab-item \n          Date Added\n                
+4 - li \"tab-item \n          Favorite\n        ","body":"  
+5 - ul \"user-games-list\"       
+6 - li \"item \n        
+7 - div \"game-content \n          
+8 - div \"remove\" \n          
+9 - div \"game-favorite\"         
+10 - span \"loved \n          
+11 - div \"game-boxart\" \n            
+12 - a \"box-art\" \n                    
+13 - img \"lazy None
+12 - a \"game-title\" Call of Duty 2 (PC)\n          
+13 - div \"game-details\" \n            
+14 - div \"game-ranking \n                    
+15 - div \"rank-progress \n        
+16 - div \"rank-progress-bar\" \n        \n      \n              \n                    
+17 - div \"carousel \n        
+18 - div \"viewport\" \n                
+19 - ul \"friend-comparison \n                
+20 - li \"friend \n          
+21 - div \"rank-avatar\" \n            
+22 - span \"rank-number\" 1
+23 - span \"ordinal-suffix\" st\n                    
+24 - span \"platform \n            
+25 - a \"lt-leaderboard-profile\" \n              
+26 - div \"rank-stats\" \n                
+27 - span \"stat None
+28 - span \"icon\"  2167\n                
+29 - span \"stat None
+30 - span \"icon\"  0\n              \n                    
+31 - img \"lazy None
+31 - span \"rank-playername \n            
+32 - a \"lt-leaderboard-profile\" Jstyl_8\n          \n                
+33 - li \"friend \n          
+34 - div \"rank-avatar\" \n            
+35 - span \"rank-number\" 2
+36 - span \"ordinal-suffix\" nd\n                    
+37 - span \"platform \n            
+38 - a \"lt-leaderboard-profile\" \n              
+39 - div \"rank-stats\" \n                
+40 - span \"stat None
+41 - span \"icon\"  1629\n                
+42 - span \"stat None
+43 - span \"icon\"  0\n              \n                    
+44 - img \"lazy None
+44 - span \"rank-playername \n            
+45 - a \"lt-leaderboard-profile\" nitrous88\n          \n                
+46 - li \"friend \n          
+47 - div \"rank-avatar\" \n            
+48 - span \"rank-number\" 3
+49 - span \"ordinal-suffix\" rd\n                    
+50 - span \"platform \n            
+51 - a \"lt-leaderboard-profile\" \n              
+52 - div \"rank-stats\" \n                
+53 - span \"stat None
+54 - span \"icon\"  19\n                
+55 - span \"stat None
+56 - span \"icon\"  0\n              \n                    
+57 - img \"lazy None
+57 - span \"rank-playername \n            
+58 - a \"lt-leaderboard-profile\" czechmade\n          \n                
+59 - li \"friend \n          
+60 - div \"rank-avatar\" \n            
+61 - span \"rank-number\" 4
+62 - span \"ordinal-suffix\" th\n                    
+63 - span \"platform \n            
+64 - a \"lt-leaderboard-profile\" \n              
+65 - div \"rank-stats\" \n                
+66 - span \"stat None
+67 - span \"icon\"  6\n                
+68 - span \"stat None
+69 - span \"icon\"  0\n              \n                    
+70 - img \"lazy None
+70 - span \"rank-playername \n            
+71 - a \"lt-leaderboard-profile\" mpkillercz\n          \n                
+72 - li \"friend \n          
+73 - div \"rank-avatar\" \n            
+74 - span \"rank-number\" 5
+75 - span \"ordinal-suffix\" th\n                    
+76 - span \"platform \n            
+77 - a \"lt-leaderboard-profile\" \n              
+78 - div \"rank-stats\" \n                
+79 - span \"stat None
+80 - span \"icon\"  4\n                
+81 - span \"stat None
+82 - span \"icon\"  0\n              \n                    
+83 - img \"lazy None
+83 - span \"rank-playername \n            
+84 - a \"lt-leaderboard-profile\" \n          \n                
+85 - li \"friend \n          
+86 - div \"rank-avatar\" \n            
+87 - span \"rank-number\" 6
+88 - span \"ordinal-suffix\" th\n                    
+89 - span \"platform \n            
+90 - a \"lt-leaderboard-profile\" \n              
+91 - div \"rank-stats\" \n                
+92 - span \"stat None
+93 - span \"icon\"  2\n                
+94 - span \"stat None
+95 - span \"icon\"  0\n              \n                    
+96 - img \"lazy None
+96 - span \"rank-playername \n            
+97 - a \"lt-leaderboard-profile\" falloutboy2\n          \n        \n      \n        \n        
+98 - button \"prev \n          
+99 - span \"text\" Previous\n          
+100 - span \"icon\" \n        \n        
+101 - button \"next \n          
+102 - span \"text\" Next\n          
+103 - span \"icon\" \n        \n      \n            \n            
+104 - ul None \n              
+105 - li \"game-rank\"         
+106 - span \"RANKLEVEL5\" Elite\n              
+107 - li \"game-ratings\"       
+108 - ol \"star-rating\" \n        
+109 - li \"current         
+109 - li None \n          
+110 - a \"rating-control \n            
+111 - span \"mask\" \n          \n                
+112 - li None \n          
+113 - a \"rating-control \n            
+114 - span \"mask\" \n          \n                
+115 - li None \n          
+116 - a \"rating-control \n            
+117 - span \"mask\" \n          \n                
+118 - li None \n          
+119 - a \"rating-control \n            
+120 - span \"mask\" \n          \n                
+121 - li None \n          
+122 - a \"rating-control \n            
+123 - span \"mask\" \n          \n        \n              
+124 - li \"game-hours\"       
+125 - span \"icon\"  
+126 - strong None 2,167 hrs\n              
+127 - li \"game-achievements\" \n            \n          \n        \n        
+128 - div \"game-footer \n          
+129 - div \"game-compare\" \n            \n          \n        \n            
+130 - li \"item \n        
+131 - div \"game-content \n          
+132 - div \"remove\" \n          
+133 - div \"game-favorite\"         
+134 - span \" \n          
+135 - div \"game-boxart\" \n            
+136 - a \"box-art\" \n                    
+137 - img \"lazy None
+136 - a \"game-title\" Heroes of the Storm (PC)\n          
+137 - div \"game-details\" \n            
+138 - div \"game-ranking \n                    
+139 - div \"rank-progress \n        
+140 - div \"rank-progress-bar\" \n        \n      \n              \n                    
+141 - div \"carousel\" \n        
+142 - div \"viewport\" \n                
+143 - ul \"friend-comparison \n                
+144 - li \"friend \n          
+145 - div \"rank-avatar\" \n            
+146 - span \"rank-number\" 1
+147 - span \"ordinal-suffix\" st\n                    
+148 - span \"platform \n            
+149 - a \"lt-leaderboard-profile\" \n              
+150 - div \"rank-stats\" \n                
+151 - span \"stat None
+152 - span \"icon\"  400\n                
+153 - span \"stat None
+154 - span \"icon\"  0\n              \n                    
+155 - img \"lazy None
+155 - span \"rank-playername \n            
+156 - a \"lt-leaderboard-profile\" Jstyl_8\n          \n                
+157 - li \"friend \n          
+158 - div \"rank-avatar\" \n            
+159 - span \"rank-number\" 2
+160 - span \"ordinal-suffix\" nd\n                    
+161 - span \"platform \n            
+162 - a \"lt-leaderboard-profile\" \n              
+163 - div \"rank-stats\" \n                
+164 - span \"stat None
+165 - span \"icon\"  252\n                
+166 - span \"stat None
+167 - span \"icon\"  0\n              \n                    
+168 - img \"lazy None
+168 - span \"rank-playername \n            
+169 - a \"lt-leaderboard-profile\" ark_dei\n          \n        \n      \n        \n        
+170 - button \"prev \n          
+171 - span \"text\" Previous\n          
+172 - span \"icon\" \n        \n        
+173 - button \"next \n          
+174 - span \"text\" Next\n          
+175 - span \"icon\" \n        \n      \n            \n            
+176 - ul None \n              
+177 - li \"game-rank\"         
+178 - span \"RANKLEVEL5\" Elite\n              
+179 - li \"game-ratings\"       
+180 - ol \"star-rating\" \n        
+181 - li \"current         
+181 - li None \n          
+182 - a \"rating-control \n            
+183 - span \"mask\" \n          \n                
+184 - li None \n          
+185 - a \"rating-control \n            
+186 - span \"mask\" \n          \n                
+187 - li None \n          
+188 - a \"rating-control \n            
+189 - span \"mask\" \n          \n                
+190 - li None \n          
+191 - a \"rating-control \n            
+192 - span \"mask\" \n          \n                
+193 - li None \n          
+194 - a \"rating-control \n            
+195 - span \"mask\" \n          \n        \n              
+196 - li \"game-hours\"       
+197 - span \"icon\"  
+198 - strong None 400 hrs\n              
+199 - li \"game-achievements\" \n            \n          \n        \n        
+200 - div \"game-footer \n          
+201 - div \"game-compare\" \n            \n          \n        \n            
+202 - li \"item \n        
+203 - div \"game-content \n          
+204 - div \"remove\" \n          
+205 - div \"game-favorite\"         
+206 - span \" \n          
+207 - div \"game-boxart\" \n            
+208 - a \"box-art\" \n                    
+209 - img \"lazy None
+208 - a \"game-title\" World of Warcraft (PC)\n          
+209 - div \"game-details\" \n            
+210 - div \"game-ranking \n                    
+211 - div \"rank-progress \n        
+212 - div \"rank-progress-bar\" \n        \n      \n              \n                    
+213 - div \"carousel\" \n        
+214 - div \"viewport\" \n                
+215 - ul \"friend-comparison \n                
+216 - li \"friend \n          
+217 - div \"rank-avatar\" \n            
+218 - span \"rank-number\" 1
+219 - span \"ordinal-suffix\" st\n                    
+220 - span \"platform \n            
+221 - a \"lt-leaderboard-profile\" \n              
+222 - div \"rank-stats\" \n                
+223 - span \"stat None
+224 - span \"icon\"  763\n                
+225 - span \"stat None
+226 - span \"icon\"  0\n              \n                    
+227 - img \"lazy None
+227 - span \"rank-playername \n            
+228 - a \"lt-leaderboard-profile\" ark_dei\n          \n                
+229 - li \"friend \n          
+230 - div \"rank-avatar\" \n            
+231 - span \"rank-number\" 2
+232 - span \"ordinal-suffix\" nd\n                    
+233 - span \"platform \n            
+234 - a \"lt-leaderboard-profile\" \n              
+235 - div \"rank-stats\" \n                
+236 - span \"stat None
+237 - span \"icon\"  314\n                
+238 - span \"stat None
+239 - span \"icon\"  0\n              \n                    
+240 - img \"lazy None
+240 - span \"rank-playername \n            
+241 - a \"lt-leaderboard-profile\" Jstyl_8\n          \n        \n      \n        \n        
+242 - button \"prev \n          
+243 - span \"text\" Previous\n          
+244 - span \"icon\" \n        \n        
+245 - button \"next \n          
+246 - span \"text\" Next\n          
+247 - span \"icon\" \n        \n      \n            \n            
+248 - ul None \n              
+249 - li \"game-rank\"         
+250 - span \"RANKLEVEL4\" Hardcore\n              
+251 - li \"game-ratings\"       
+252 - ol \"star-rating\" \n        
+253 - li \"current         
+253 - li None \n          
+254 - a \"rating-control \n            
+255 - span \"mask\" \n          \n                
+256 - li None None

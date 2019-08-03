@@ -1,0 +1,10 @@
+Game Status:
+c h _ 
+_ e t 
+_ _ _ 
+[Enemy heroes left=1][Current weapons=0]
+c _ _ 
+_ h t 
+_ _ _ 
+[Enemy heroes left=1][Current weapons=0]
+You died!
